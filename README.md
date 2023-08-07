@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sagar-joshi
 - 👀 I’m interested in cyber security, data science, software engineering
-- 🌱 I’m currently learning data science(nlp)
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/sagar-joshi-517551168/
 
